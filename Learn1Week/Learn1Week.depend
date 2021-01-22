@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1607589330 source:c:\users\mj\documents\learnc++\learn1week\main.cpp
+	<32/bits/std_lib_facilities.h>
+
+1606557129 source:c:\users\mj\documents\learnc++\learn1week\hello_world.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<cmath>
+
+1607480009 source:c:\users\mj\documents\learnc++\learn1week\inputoutput.cpp
+	<32/bits/std_lib_facilities.h>
+
+1607342315 source:c:\users\mj\documents\learnc++\learn1week\c5_errors.cpp
+	<32/bits/std_lib_facilities.h>
+	<stdint.h>
+	<strings.h>
+
+1606557129 source:c:\users\mj\documents\@programming\c++\projects 2020\learn1week\hello_world.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<cmath>
+
+1609115566 source:c:\users\mj\documents\@programming\c++\projects 2020\learn1week\main.cpp
+	<std_lib_facilities.h>
+
+1609115593 source:c:\users\mj\documents\@programming\c++\projects 2020\learn1week\c5_errors.cpp
+	<std_lib_facilities.h>
+	<stdint.h>
+	<strings.h>
+
+1609115884 source:c:\users\mj\documents\@programming\c++\projects 2020\learn1week\inputoutput.cpp
+	<std_lib_facilities.h>
+

@@ -1,0 +1,21 @@
+// - is a comment syntax. Example: //Haba
+executable - it means that the file can be run outside of ide or cmd // haba.exe
+main() - every c++ program must have a main function. Example int main(){}
+<< - it is the output operator for cout Example cout << ""
+function - it is a group of instruction for the computer Example void erase(){}
+object code - it is the output of a source code after being compiled Example 11010101
+C++ - it is a type of programming language and a tool for a programmers to use to build something useful to clients/users Example: Google
+header - contains the definition of terms, in my own understanding it contains functions Example: #include <iostream>
+output - it is the programs output of the instruction that it has read
+comment - is a line that is not considered as an instruction by the computer and also helps other readers to explain the
+program's output Example: //Prints Hello World
+IDE - (integrated development environment) it is a software that helps programmer to manage code easier Example: Code::BLock
+program - it is a set of instructions that the computer performs Example: Softwares
+compiler - it is the one responsible that converts source code to machine code or object code
+#include - it is used to access library
+source code - it is a human readable code
+compile-time error - It is an error that you get if you have some wrong syntax in your program Example: No semi-column
+library - it is a code that can help a programmer, it can be accessed through #include
+statement - it is a condition and it returns true or false
+cout - It is an abbreviation for character output stream or pronounced as see-out
+linker - It links several parts of a project
