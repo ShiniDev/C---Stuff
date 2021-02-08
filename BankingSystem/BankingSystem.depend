@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1612354529 source:c:\users\mj\documents\@programming\c++\projects 2020\bankingsystem\main.cpp
+	<conio.h>
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	"src/headers/Bank.h"
+	"src/headers/BankInterface.h"
+
+1612078628 source:c:\users\mj\documents\@programming\c++\projects 2020\bankingsystem\headers\src\bankinterface.cpp
+
+1612186406 c:\users\mj\documents\@programming\c++\projects 2020\bankingsystem\headers\bankinterface.h
+	"Bank.h"
+
+1612180796 c:\users\mj\documents\@programming\c++\projects 2020\bankingsystem\headers\bank.h
+	<vector>
+	"Account.h"
+
+1612180636 c:\users\mj\documents\@programming\c++\projects 2020\bankingsystem\headers\account.h
+
+1612691499 c:\users\mj\documents\@programming\c++\projects 2020\bankingsystem\src\headers\bankinterface.h
+	"Bank.h"
+	<conio.h>
+	<windows.h>
+
+1612741843 c:\users\mj\documents\@programming\c++\projects 2020\bankingsystem\src\headers\bank.h
+	<vector>
+	"Account.h"
+
+1612740269 c:\users\mj\documents\@programming\c++\projects 2020\bankingsystem\src\headers\account.h
+	<string>
+	<iostream>
+	<fstream>
+	<cctype>
+	<stdio.h>
+	"HabaUtilities.h"
+
+1612743522 source:c:\users\mj\documents\@programming\c++\projects 2020\bankingsystem\src\bankinterface.cpp
+	"headers/BankInterface.h"
+
+1612706265 source:c:\users\mj\documents\@programming\c++\projects 2020\bankingsystem\src\bank.cpp
+	"headers/Bank.h"
+
+1612742624 c:\users\mj\documents\@programming\c++\projects 2020\bankingsystem\src\headers\habautilities.h
+	<windows.h>
+	<iomanip>
+

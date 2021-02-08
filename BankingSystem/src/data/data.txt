@@ -1,0 +1,15 @@
+!bank {
+	(Bank of PPC)
+}
+@acc {
+	%admin%
+	* 12345 *
+	$ 0 $
+	~t
+}
+@acc {
+	%mark%
+	* 12345 *
+	$ 0 $
+	~f
+}
