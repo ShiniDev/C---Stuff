@@ -1,4 +1,4 @@
-#include <std_lib_facilities.h>
+#include "std_lib_facilities.h"
 
 void hello();
 void input();
@@ -43,6 +43,12 @@ void days_values();
 
 int main()
 {
-    c_guess_my_number();
-    return 0;
+	 try{
+		 c_guess_my_number();
+	}    
+	catch(std::exception& e){
+		std::cerr << "Error: " << e.what() << '\n';
+		return 1;
+	}
+	return 0;
 }
